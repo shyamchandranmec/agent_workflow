@@ -6,5 +6,7 @@ readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
     "dotenv>=0.9.9",
+    "llama-index>=0.12.30",
+    "tavily-python>=0.5.4",
 ]
 
